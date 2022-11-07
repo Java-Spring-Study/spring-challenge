@@ -1,4 +1,4 @@
-# spring-challenge
+# spring-challenges
 
 [실행 튜토리얼 링크](https://heathered-dress-bc9.notion.site/f628e7a543be4118b428634322d34a15)
 
