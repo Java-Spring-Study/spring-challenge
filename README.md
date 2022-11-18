@@ -6,7 +6,12 @@
 
 프로젝트를 실행해서, 다음과 같은 결과를 확인하라!
 
+<details> <summary></summary>
+
 ![image](https://user-images.githubusercontent.com/92802207/200161185-9b443b3f-d206-413f-9fd3-1d2778cac196.png)
+
+</details>
+
 
 ## challenge 2. 회원 등록, 회원 리스트를 조회하는 API 개발하기
 
